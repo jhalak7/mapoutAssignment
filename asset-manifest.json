@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/mapoutAssignment/static/css/main.ea6d8b99.chunk.css",
-    "main.js": "/mapoutAssignment/static/js/main.80639505.chunk.js",
-    "main.js.map": "/mapoutAssignment/static/js/main.80639505.chunk.js.map",
-    "runtime-main.js": "/mapoutAssignment/static/js/runtime-main.32ede4a4.js",
-    "runtime-main.js.map": "/mapoutAssignment/static/js/runtime-main.32ede4a4.js.map",
-    "static/js/2.cad6b5eb.chunk.js": "/mapoutAssignment/static/js/2.cad6b5eb.chunk.js",
-    "static/js/2.cad6b5eb.chunk.js.map": "/mapoutAssignment/static/js/2.cad6b5eb.chunk.js.map",
-    "static/js/3.d07eaae4.chunk.js": "/mapoutAssignment/static/js/3.d07eaae4.chunk.js",
-    "static/js/3.d07eaae4.chunk.js.map": "/mapoutAssignment/static/js/3.d07eaae4.chunk.js.map",
+    "main.css": "/mapoutAssignment/static/css/main.ee4a3d7c.chunk.css",
+    "main.js": "/mapoutAssignment/static/js/main.4f4a5e1f.chunk.js",
+    "main.js.map": "/mapoutAssignment/static/js/main.4f4a5e1f.chunk.js.map",
+    "runtime-main.js": "/mapoutAssignment/static/js/runtime-main.3ef9727b.js",
+    "runtime-main.js.map": "/mapoutAssignment/static/js/runtime-main.3ef9727b.js.map",
+    "static/js/2.491c781b.chunk.js": "/mapoutAssignment/static/js/2.491c781b.chunk.js",
+    "static/js/2.491c781b.chunk.js.map": "/mapoutAssignment/static/js/2.491c781b.chunk.js.map",
+    "static/js/3.e065fef1.chunk.js": "/mapoutAssignment/static/js/3.e065fef1.chunk.js",
+    "static/js/3.e065fef1.chunk.js.map": "/mapoutAssignment/static/js/3.e065fef1.chunk.js.map",
     "index.html": "/mapoutAssignment/index.html",
-    "static/css/main.ea6d8b99.chunk.css.map": "/mapoutAssignment/static/css/main.ea6d8b99.chunk.css.map",
-    "static/js/2.cad6b5eb.chunk.js.LICENSE.txt": "/mapoutAssignment/static/js/2.cad6b5eb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mapoutAssignment/static/media/logo.6ce24c58.svg"
+    "static/css/main.ee4a3d7c.chunk.css.map": "/mapoutAssignment/static/css/main.ee4a3d7c.chunk.css.map",
+    "static/js/2.491c781b.chunk.js.LICENSE.txt": "/mapoutAssignment/static/js/2.491c781b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32ede4a4.js",
-    "static/js/2.cad6b5eb.chunk.js",
-    "static/css/main.ea6d8b99.chunk.css",
-    "static/js/main.80639505.chunk.js"
+    "static/js/runtime-main.3ef9727b.js",
+    "static/js/2.491c781b.chunk.js",
+    "static/css/main.ee4a3d7c.chunk.css",
+    "static/js/main.4f4a5e1f.chunk.js"
   ]
 }
